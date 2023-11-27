@@ -47,4 +47,15 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - [Women in Tech](https://www.meetup.com/fr-FR/women-in-tech-bordeaux/)
 - Bordeaux
 
+#### Magali Damourette
+
+- [Magali](https://www.linkedin.com/in/magali-damourette-25a455123/)
+- [BDX I/O](https://bdxio.fr/)
+- Bordeaux
   
+#### Margaux Pouget
+
+- [Margaux](https://www.linkedin.com/in/margaux-pouget-4411b8184/)
+- [BDX I/O](https://bdxio.fr/)
+- Bordeaux
+
