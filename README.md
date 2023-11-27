@@ -14,6 +14,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Bordeaux
 
+#### Céline Louvet
+
+- [@celine_louvet](https://twitter.com/celine_louvet)
+- [celine.louvet.me](https://celine.louvet.me)
+- Thèmes - Architecture cloud (event driven, authorization), Entrepreunariat, Women in Tech
+- Langues - Français, Anglais
+- Localisation - Lyon
+
 #### Coralie Broteille
 
 - [@coralie_brtl](https://twitter.com/coralie_brtl)
