@@ -25,7 +25,7 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 #### Emmanuelle Aboaf
 
 - [@eaboaf_](https://twitter.com/@eaboaf_)
-- [mmanuelle-aboaf.netlify.app](https://emmanuelle-aboaf.netlify.app)
+- [Emmanuelle-aboaf.netlify.app](https://emmanuelle-aboaf.netlify.app)
 - Thèmes - accessibilité, handicap, inclusion, tech, angular, HTML
 - Langues - Français, Anglais
 - Localisation - Paris
@@ -42,20 +42,20 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 
 #### Coralie Broteille
 
-- [coralie_brtl](https://twitter.com/coralie_brtl)
+- [@coralie_brtl](https://twitter.com/coralie_brtl)
 - [BDX I/O](https://bdxio.fr/)
 - [Women in Tech](https://www.meetup.com/fr-FR/women-in-tech-bordeaux/)
 - Bordeaux
 
 #### Magali Damourette
 
-- [Magali](https://www.linkedin.com/in/magali-damourette-25a455123/)
+- [Magali Damourette](https://www.linkedin.com/in/magali-damourette-25a455123/)
 - [BDX I/O](https://bdxio.fr/)
 - Bordeaux
   
 #### Margaux Pouget
 
-- [Margaux](https://www.linkedin.com/in/margaux-pouget-4411b8184/)
+- [Margaux Pouget](https://www.linkedin.com/in/margaux-pouget-4411b8184/)
 - [BDX I/O](https://bdxio.fr/)
 - Bordeaux
 
