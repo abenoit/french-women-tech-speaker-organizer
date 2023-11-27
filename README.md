@@ -16,12 +16,19 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 
 #### Coralie Broteille
 
-- [coralie_brtl](https://twitter.com/coralie_brtl)
+- [@coralie_brtl](https://twitter.com/coralie_brtl)
 - [BDX I/O](https://bdxio.fr/)
-- Thèmes - React, JavaScript, Women in tech 
+- Thèmes - React, JavaScript, inclusion
 - Langues - Français, Anglais
 - Localisation - Bordeaux
-  
+
+#### Emmanuelle Aboaf
+
+- [@eaboaf_](https://twitter.com/@eaboaf_)
+- [mmanuelle-aboaf.netlify.app](https://emmanuelle-aboaf.netlify.app)
+- Thèmes - accessibilité, handicap, inclusion, tech, angular, HTML
+- Langues - Français, Anglais
+- Localisation - Paris
 
 ## Organisatrices 
 
