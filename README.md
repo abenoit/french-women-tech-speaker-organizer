@@ -26,7 +26,7 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 
 - [@eaboaf_](https://twitter.com/@eaboaf_)
 - [Emmanuelle-aboaf.netlify.app](https://emmanuelle-aboaf.netlify.app)
-- Thèmes - accessibilité, handicap, inclusion, tech, angular, HTML
+- Thèmes - accessibilité, handicap, inclusion, tech, angular, HTML, intelligence artificielle
 - Langues - Français, Anglais
 - Localisation - Paris
 
