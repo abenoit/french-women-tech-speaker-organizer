@@ -14,6 +14,13 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Bordeaux
 
+#### Anne-Laure Gaillard
+
+- [Anne-Laure LinkedIn](www.linkedin.com/in/annelauregaillard)
+- Thèmes - Qualité logiciel, testing, API testing, inclusion
+- Langues - Français, Anglais
+- Localisation - Bordeaux
+
 #### Céline Louvet
 
 - [@celine_louvet](https://twitter.com/celine_louvet)
@@ -55,6 +62,13 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - [Women in Tech](https://www.meetup.com/fr-FR/women-in-tech-bordeaux/)
 - [React & React-Native Bordeaux](https://www.meetup.com/fr-FR/react-react-native-bordeaux/)
 - Bordeaux
+
+#### Anne-Laure Gaillard
+
+- [Anne-Laure LinkedIn](www.linkedin.com/in/annelauregaillard)
+- [ParisTestConf](https://paristestconf.com/)
+- [Agile Tour Bordeaux](https://agiletourbordeaux.fr/)
+- Localisation - Bordeaux
 
 #### Coralie Broteille
 
