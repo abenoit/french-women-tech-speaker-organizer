@@ -29,8 +29,8 @@ Veuillez vous ajouter par ordre alphabétique.
 
 - [@TwitterHandle](http://twitter.com)
 - [Site perso](http://www.examplewebsitelink.com)
-- Topics - Topic 1, Topic 2, Topic 3
-- Ville
+- Thèmes - Thème 1, Thème 2, Thème 3
+- Localisation - Ville
 ```
 
 > Organisateurices
