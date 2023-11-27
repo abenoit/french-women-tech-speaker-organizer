@@ -10,15 +10,17 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 
 - [@AmelieBenoit33](http://twitter.com/AmelieBenoit33)
 - [amelie.tech](https://amelie.tech/fr/)
-- Topics - React, Typescript, JavaScript, Node.js, HTML/CSS, Flexbox
-- Localisation: Bordeaux
+- Thèmes - React, Typescript, JavaScript, Node.js, HTML/CSS, Flexbox
+- Langues - Français, Anglais
+- Localisation - Bordeaux
 
 #### Coralie Broteille
 
 - [coralie_brtl](https://twitter.com/coralie_brtl)
 - [BDX I/O](https://bdxio.fr/)
-- Topics - React, JavaScript, Women in tech 
-- Bordeaux
+- Thèmes - React, JavaScript, Women in tech 
+- Langues - Français, Anglais
+- Localisation - Bordeaux
   
 
 ## Organisatrices 
