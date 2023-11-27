@@ -38,6 +38,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Paris
 
+#### Katia Himeur
+
+- [@katia_tal](https://twitter.com/katia_tal) 
+- [Katia sur LinkedIn](https://linkedin.com/in/katiahimeur/)
+- Thèmes - Cloud, DevOps, Automatisation, FinOps, Ingénierie de la fiabilité des sites, Conduite du changement
+- Langues - Français, Anglais
+- Localisation - Paris
+
 ## Organisatrices 
 
 #### Amélie Benoit
