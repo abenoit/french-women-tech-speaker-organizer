@@ -27,9 +27,10 @@ Veuillez vous ajouter par ordre alphabétique.
 ```markdown
 #### Nom complet (Prénom Nom)
 
-- [@TwitterHandle](http://twitter.com)
+- [@TwitterHandle](http://twitter.com) ou Linkedin ou  autre
 - [Site perso](http://www.examplewebsitelink.com)
 - Thèmes - Thème 1, Thème 2, Thème 3
+- Langues - Français, Autre langue
 - Localisation - Ville
 ```
 
