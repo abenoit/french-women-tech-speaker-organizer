@@ -1,4 +1,4 @@
-Insipré par [Fempire](https://github.com/fempire/women-tech-speakers-organizers#europe). Le but n'étant pas de concurrencer cette initiative, mais de créer une liste plus locale, afin d'aider la scène tech française à faire appel aux speakerines et organisatrices citées ci-dessous pour diversifier leurs événements.
+Inspiré par [Fempire](https://github.com/fempire/women-tech-speakers-organizers#europe). Le but n'étant pas de concurrencer cette initiative, mais de créer une liste plus locale, afin d'aider la scène tech française à faire appel aux speakerines et organisatrices citées ci-dessous pour diversifier leurs événements. 
 
 # Organisatrices et Speakerines Françaises
 
@@ -13,6 +13,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Thèmes - React, Typescript, JavaScript, Node.js, HTML/CSS, Flexbox
 - Langues - Français, Anglais
 - Localisation - Bordeaux
+  
+#### Angi (Déborah) Guyard
+
+- [@AngiG29](http://twitter.com/AngiG29)
+- [Angi Guyard sur LinkedIn](https://www.linkedin.com/in/d%C3%A9borah-guyard/)
+- Thèmes - Accessibilité, Inclusion des diversités, Autisme, Neureo-atypie, Handicap
+- Langues - Français, Anglais
+- Localisation - Nantes
 
 #### Anne-Laure Gaillard
 
@@ -61,6 +69,22 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, anglais, allemand
 - Localisation - Paris
 
+#### Johanna Vauchel
+
+- [Talks and Articles](https://jvauchel.github.io/)
+- [Johanna sur LinkedIn](https://fr.linkedin.com/in/johanna-vauchel-05576a78)
+- Thèmes - Data, Kafka, 3D, Maths Appliquées, Inclusion, REX et partage
+- Langues - Français, Anglais
+- Localisation - Bordeaux
+
+#### Juliette Audema
+
+- [@ajuliettedev](https://twitter.com/ajuliettedev)
+- [Juliette sur LinkedIn](https://www.linkedin.com/in/juliette-audema-46270a82/)
+- Thèmes - Cloud, Soft Skills, Ruby on Rails, Entrepreunariat, Women in Tech, inclusion
+- Langues - Français, Anglais
+- Localisation - Paris
+
 #### Katia Himeur
 
 - [@katia_tal](https://twitter.com/katia_tal)
@@ -69,7 +93,31 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Paris
 
-## Organisatrices
+#### Marie Crappe
+
+- [Marie Crappe - LinkedIn](https://www.linkedin.com/in/marie-crappe-02763668/)
+- Thèmes - Intelligence artificielle, Enjeux éthiques de l'IA, Data Science, Data Governance, Education data et IA
+- Langues - Français, Anglais
+- Localisation - Clermont-Ferrand
+
+#### Mélanie Jarrar
+
+- [@Rahpsodee - Twitter](https://twitter.com/Rahpsodee)
+- [Linkedin](https://www.linkedin.com/in/cybersecuritymel)
+- [Site perso](https://rahpsodee.github.io)
+- Thèmes : Cybersécurité
+- Langues : Français, Anglais
+- Localisation : Lyon
+
+#### Noémie M. Rivière
+
+- [@campb_LLs](https://twitter.com/campb_LLs)
+- [Site perso](https://www.noemieriviere.com/)
+- Theme : design, produit, agilité, accessibilité, inclusivité
+- Langue : Français
+- Localisation : Bordeaux
+
+## Organisatrices 
 
 #### Amélie Benoit
 
@@ -81,7 +129,7 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 
 #### Anne-Laure Gaillard
 
-- [Anne-Laure LinkedIn](www.linkedin.com/in/annelauregaillard)
+- [Anne-Laure LinkedIn](https://www.linkedin.com/in/annelauregaillard)
 - [ParisTestConf](https://paristestconf.com/)
 - [Agile Tour Bordeaux](https://agiletourbordeaux.fr/)
 - Localisation - Bordeaux
