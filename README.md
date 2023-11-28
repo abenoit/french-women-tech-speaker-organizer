@@ -114,24 +114,24 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - [@Rahpsodee - Twitter](https://twitter.com/Rahpsodee)
 - [Linkedin](https://www.linkedin.com/in/cybersecuritymel)
 - [Site perso](https://rahpsodee.github.io)
-- Thèmes : Cybersécurité
-- Langues : Français, Anglais
-- Localisation : Lyon
+- Thèmes - Cybersécurité
+- Langues - Français, Anglais
+- Localisation - Lyon
 
 #### Noémie M. Rivière
 
-- [@campb_LLs](https://twitter.com/campb_LLs)
+- [Noémie sur Linkedin](https://www.linkedin.com/in/noemiemelidariviere/)
 - [Site perso](https://www.noemieriviere.com/)
-- Themes : design, produit, agilité, accessibilité, inclusivité
-- Langues : Français
-- Localisation : Bordeaux
+- Themes - design, produit, agilité, accessibilité, inclusivité
+- Langues - Français
+- Localisation - Bordeaux
 
 #### Thanh Lan Doublier
 
 - [Thanh Lan sur Linkedin](https://www.linkedin.com/in/thanhlandoublier/)
-- Thèmes : IA, MLOps, inclusivité
-- Langues : Français et Anglais
-- Localisation : Lille
+- Thèmes - IA, MLOps, inclusivité
+- Langues - Français et Anglais
+- Localisation - Lille
 
 ## Organisatrices
 
