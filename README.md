@@ -45,6 +45,13 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Paris
 
+#### Marie Crappe
+
+- [Marie Crappe - LinkedIn](https://www.linkedin.com/in/marie-crappe-02763668/)
+- Thèmes - Intelligence artificielle, Enjeux éthiques de l'IA, Data Science, Data Governance, Education data et IA
+- Langues - Français, Anglais
+- Localisation - Clermont-Ferrand
+
 #### Katia Himeur
 
 - [@katia_tal](https://twitter.com/katia_tal) 
