@@ -62,6 +62,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Bordeaux
 
+#### Juliette Audema
+
+- [@ajuliettedev](https://twitter.com/ajuliettedev)
+- [Juliette sur LinkedIn](https://www.linkedin.com/in/juliette-audema-46270a82/)
+- Thèmes - Cloud, Soft Skills, Ruby on Rails, Entrepreunariat, Women in Tech, inclusion
+- Langues - Français, Anglais
+- Localisation - Paris
+
 #### Katia Himeur
 
 - [@katia_tal](https://twitter.com/katia_tal) 
@@ -77,6 +85,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Clermont-Ferrand
 
+#### Mélanie Jarrar
+
+- [@Rahpsodee - Twitter](https://twitter.com/Rahpsodee)
+- [Linkedin](https://www.linkedin.com/in/cybersecuritymel)
+- [Site perso](https://rahpsodee.github.io)
+- Thèmes : Cybersécurité
+- Langues : Français, Anglais
+- Localisation : Lyon
 
 ## Organisatrices 
 
