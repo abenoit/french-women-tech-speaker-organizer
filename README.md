@@ -6,6 +6,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 
 ## Speakers 
 
+#### Angi (Déborah) Guyard
+
+- [@AngiG29](http://twitter.com/AngiG29)
+- [Angi Guyard sur LinkedIn]([https://amelie.tech/fr/](https://www.linkedin.com/in/d%C3%A9borah-guyard/))
+- Thèmes - Accessibilité, Inclusion des diversités, Autisme, Neureo-atypie, Handicap
+- Langues - Français, Anglais
+- Localisation - Nantes
+
 #### Amélie Benoit
 
 - [@AmelieBenoit33](http://twitter.com/AmelieBenoit33)
