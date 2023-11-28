@@ -69,6 +69,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Paris
 
+#### Katia Himeur
+
+- [@katia_tal](https://twitter.com/katia_tal)
+- [Katia sur LinkedIn](https://linkedin.com/in/katiahimeur/)
+- Thèmes - Cloud, DevOps, Automatisation, FinOps, Ingénierie de la fiabilité des sites, Conduite du changement
+- Langues - Français, Anglais
+- Localisation - Paris
+
 #### Magali Milbergue
 
 - [@thedaisymoon.me sur BlueSky](https://bsky.app/profile/thedaisymoon.me)
@@ -83,14 +91,6 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - [mercimarcy.com](https://www.mercimarcy.com)
 - Thèmes - Social tech, inclusive UX, inclusive User research, diversity
 - Langues - Français, anglais, allemand
-- Localisation - Paris
-
-#### Katia Himeur
-
-- [@katia_tal](https://twitter.com/katia_tal)
-- [Katia sur LinkedIn](https://linkedin.com/in/katiahimeur/)
-- Thèmes - Cloud, DevOps, Automatisation, FinOps, Ingénierie de la fiabilité des sites, Conduite du changement
-- Langues - Français, Anglais
 - Localisation - Paris
 
 #### Marie Crappe
@@ -113,9 +113,16 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 
 - [@campb_LLs](https://twitter.com/campb_LLs)
 - [Site perso](https://www.noemieriviere.com/)
-- Theme : design, produit, agilité, accessibilité, inclusivité
-- Langue : Français
+- Themes : design, produit, agilité, accessibilité, inclusivité
+- Langues : Français
 - Localisation : Bordeaux
+
+#### Thanh Lan Doublier
+
+- [Thanh Lan sur Linkedin](https://www.linkedin.com/in/thanhlandoublier/)
+- Thèmes : IA, MLOps, inclusivité
+- Langues : Français et Anglais
+- Localisation : Lille
 
 ## Organisatrices
 
