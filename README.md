@@ -85,6 +85,15 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, anglais, allemand
 - Localisation - Paris
 
+#### Marie-Laure Momplot
+
+- [@malainda](https://twitter.com/malainda)
+- [@malainda.bsky.social sur BlueSky](https://bsky.app/profile/malainda.bsky.social)
+- [ML sur LinkedIn](https://linkedin.com/in/mlmomplot/)
+- Thèmes - Kafka, Kafka Streams, Event driven programming
+- Langues - Français
+- Localisation - Clermont-Ferrand
+
 #### Katia Himeur
 
 - [@katia_tal](https://twitter.com/katia_tal)
