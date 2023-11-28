@@ -133,6 +133,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues : Français et Anglais
 - Localisation : Lille
 
+#### Fanny Klauk
+
+- [@klf37](https://twitter.com/klf37)
+- [Blog](https://klaukf.github.io/blog/)
+- Thèmes - Agile, Scrum, Kanban, VSM, WIP, DevOps
+- Langues - Français, Anglais
+- Localisation - Tours
+
 ## Organisatrices
 
 #### Amélie Benoit
@@ -168,3 +176,10 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - [Margaux Pouget](https://www.linkedin.com/in/margaux-pouget-4411b8184/)
 - [BDX I/O](https://bdxio.fr/)
 - Bordeaux
+
+#### Fanny Klauk
+
+- [@klf37](https://twitter.com/klf37)
+- [TADx](https://www.tadx.fr/)
+- [Touraine Tech](https://touraine.tech/)
+- Tours
