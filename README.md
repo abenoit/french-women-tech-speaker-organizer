@@ -45,6 +45,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Paris
 
+#### Johanna Vauchel
+
+- [Talks and Articles](https://jvauchel.github.io/)
+- [Johanna sur LinkedIn](https://fr.linkedin.com/in/johanna-vauchel-05576a78)
+- Thèmes - Data, Kafka, 3D, Maths Appliquées, Inclusion, REX et partage
+- Langues - Français, Anglais
+- Localisation - Bordeaux
+
 #### Katia Himeur
 
 - [@katia_tal](https://twitter.com/katia_tal) 
