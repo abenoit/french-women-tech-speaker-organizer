@@ -1,4 +1,4 @@
-Inspiré par [Fempire](https://github.com/fempire/women-tech-speakers-organizers#europe). Le but n'étant pas de concurrencer cette initiative, mais de créer une liste plus locale, afin d'aider la scène tech française à faire appel aux speakerines et organisatrices citées ci-dessous pour diversifier leurs événements. 
+Inspiré par [Fempire](https://github.com/fempire/women-tech-speakers-organizers#europe). Le but n'étant pas de concurrencer cette initiative, mais de créer une liste plus locale, afin d'aider la scène tech française à faire appel aux speakerines et organisatrices citées ci-dessous pour diversifier leurs événements.
 
 # Organisatrices et Speakerines Françaises
 
@@ -13,7 +13,7 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Thèmes - React, Typescript, JavaScript, Node.js, HTML/CSS, Flexbox
 - Langues - Français, Anglais
 - Localisation - Bordeaux
-  
+
 #### Angi (Déborah) Guyard
 
 - [@AngiG29](http://twitter.com/AngiG29)
@@ -53,22 +53,6 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Paris
 
-#### Magali Milbergue
-
-- [@thedaisymoon.me sur BlueSky](https://bsky.app/profile/thedaisymoon.me)
-- [magali-milbergue.com](https://magali-milbergue.com)
-- Thèmes - Inclusion et diversité dans la tech, handicap, sciences sociales, femmes dans la tech, reconversions...
-- Langues - Français, Anglais
-- Localisation - Région parisienne
-
-#### Marcy Ericka Charollois
-
-- [@marcyerickac.bsky.social sur BlueSky](https://bsky.app/profile/marcyerickac.bsky.social)
-- [mercimarcy.com](https://www.mercimarcy.com)
-- Thèmes - Social tech, inclusive UX, inclusive User research, diversity
-- Langues - Français, anglais, allemand
-- Localisation - Paris
-
 #### Johanna Vauchel
 
 - [Talks and Articles](https://jvauchel.github.io/)
@@ -83,6 +67,22 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - [Juliette sur LinkedIn](https://www.linkedin.com/in/juliette-audema-46270a82/)
 - Thèmes - Cloud, Soft Skills, Ruby on Rails, Entrepreunariat, Women in Tech, inclusion
 - Langues - Français, Anglais
+- Localisation - Paris
+
+#### Magali Milbergue
+
+- [@thedaisymoon.me sur BlueSky](https://bsky.app/profile/thedaisymoon.me)
+- [magali-milbergue.com](https://magali-milbergue.com)
+- Thèmes - Inclusion et diversité dans la tech, handicap, sciences sociales, femmes dans la tech, reconversions...
+- Langues - Français, Anglais
+- Localisation - Région parisienne
+
+#### Marcy Ericka Charollois
+
+- [@marcyerickac.bsky.social sur BlueSky](https://bsky.app/profile/marcyerickac.bsky.social)
+- [mercimarcy.com](https://www.mercimarcy.com)
+- Thèmes - Social tech, inclusive UX, inclusive User research, diversity
+- Langues - Français, anglais, allemand
 - Localisation - Paris
 
 #### Katia Himeur
@@ -117,7 +117,7 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langue : Français
 - Localisation : Bordeaux
 
-## Organisatrices 
+## Organisatrices
 
 #### Amélie Benoit
 
