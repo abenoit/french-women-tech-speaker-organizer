@@ -65,7 +65,7 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 
 #### Anne-Laure Gaillard
 
-- [Anne-Laure LinkedIn](www.linkedin.com/in/annelauregaillard)
+- [Anne-Laure LinkedIn](https://www.linkedin.com/in/annelauregaillard)
 - [ParisTestConf](https://paristestconf.com/)
 - [Agile Tour Bordeaux](https://agiletourbordeaux.fr/)
 - Localisation - Bordeaux
