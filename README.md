@@ -94,6 +94,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues : Français, Anglais
 - Localisation : Lyon
 
+#### Noémie M. Rivière
+
+- [@campb_LLs](https://twitter.com/campb_LLs)
+- [Site perso](https://www.noemieriviere.com/)
+- Theme : design, produit, agilité, accessibilité, inclusivité
+- Langue : Français
+- Localisation : Bordeaux
+
 ## Organisatrices 
 
 #### Amélie Benoit
