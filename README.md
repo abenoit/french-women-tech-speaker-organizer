@@ -1,4 +1,4 @@
-Insipré par [Fempire](https://github.com/fempire/women-tech-speakers-organizers#europe). Le but n'étant pas de concurrencer cette initiative, mais de créer une liste plus locale, afin d'aider la scène tech française à faire appel aux speakerines et organisatrices citées ci-dessous pour diversifier leurs événements. 
+Inspiré par [Fempire](https://github.com/fempire/women-tech-speakers-organizers#europe). Le but n'étant pas de concurrencer cette initiative, mais de créer une liste plus locale, afin d'aider la scène tech française à faire appel aux speakerines et organisatrices citées ci-dessous pour diversifier leurs événements. 
 
 # Organisatrices et Speakerines Françaises 
 
