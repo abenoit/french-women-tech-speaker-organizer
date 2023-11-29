@@ -14,6 +14,15 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Bordeaux
 
+#### Ane Diaz de Tuesta
+
+- [@ane_naiz](https://twitter.com/ane_naiz)
+- [anediaz](https://anediaz.com)
+- [Ane Diaz de Tuesta sur LinkedIn](https://www.linkedin.com/in/%E2%9C%8F%EF%B8%8F-ane-diaz-de-tuesta-37785252/)
+- Thèmes - Pensée visuelle et sketchnoting, REX et partage, femmes dans la tech
+- Langues - Français, Anglais, Basque, Espagnol
+- Localisation - Bordeaux
+
 #### Angi (Déborah) Guyard
 
 - [@AngiG29](http://twitter.com/AngiG29)
