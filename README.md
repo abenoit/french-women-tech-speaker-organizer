@@ -133,6 +133,13 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Thèmes - Cybersécurité
 - Langues - Français, Anglais
 - Localisation - Lyon
+  
+  #### Morgane Troysi
+
+- [Linkedin](https://www.linkedin.com/in/morganetroysi/)
+- Thèmes - Frontend Development, Vie privée, Soft Skills / Leadership
+- Langues - Français, Anglais
+- Localisation - Nantes
 
 #### Noémie M. Rivière
 
