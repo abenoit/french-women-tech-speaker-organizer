@@ -38,6 +38,13 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Bordeaux
 
+#### Cécilia Bossard
+
+- [@cbossard@piaille.fr Mastodon](https://piaille.fr/@cbossard)
+- Thèmes - Craft, Numérique Responsable, Agilité, Diversité
+- Langues - Français, Anglais
+- Localisation - Nantes
+
 #### Céline Louvet
 
 - [@celine_louvet](https://twitter.com/celine_louvet)
