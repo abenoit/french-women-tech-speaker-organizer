@@ -93,6 +93,16 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Paris
 
+#### Lætitia Avrot
+
+- [@l_avrot](https://twitter.com/l_avrot)
+- [Lætitia sur LinkedIn](https://www.linkedin.com/in/l%C3%A6titia-avrot/)
+- [mydbanotebook.org](https://mydbanotebook.org/)
+- [psql-tips.org](https://psql-tips.org/)
+- Thèmes - PostgreSQL, Bases de données, SQL
+- Langues - Français, Anglais
+- Localisation - Lyon
+
 #### Magali Milbergue
 
 - [@thedaisymoon.me sur BlueSky](https://bsky.app/profile/thedaisymoon.me)
