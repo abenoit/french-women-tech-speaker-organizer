@@ -69,6 +69,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Paris
 
+#### Fanny Klauk
+
+- [@klf37](https://twitter.com/klf37)
+- [Blog](https://klaukf.github.io/blog/)
+- Thèmes - Agile, Scrum, Kanban, VSM, WIP, DevOps
+- Langues - Français, Anglais
+- Localisation - Tours
+  
 #### Johanna Vauchel
 
 - [Talks and Articles](https://jvauchel.github.io/)
@@ -119,6 +127,22 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, anglais, allemand
 - Localisation - Paris
 
+#### Marie Crappe
+
+- [Marie Crappe - LinkedIn](https://www.linkedin.com/in/marie-crappe-02763668/)
+- Thèmes - Intelligence artificielle, Enjeux éthiques de l'IA, Data Science, Data Governance, Education data et IA
+- Langues - Français, Anglais
+- Localisation - Clermont-Ferrand
+  
+#### Marie-Alice Blete
+
+- [@mariealice_b](https://twitter.com/mariealice_b)
+- [mariealiceblete.com](http://mariealiceblete.com)
+- [LinkedIn](https://www.linkedin.com/in/mblete)
+- Topics - AI, LLMs, Machine Learning, POC to Production
+- Location - Lyon, France (will travel nationally and internationally)
+- Languages besides English - French
+  
 #### Marie-Laure Momplot
 
 - [@malainda](https://twitter.com/malainda)
@@ -127,14 +151,7 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Thèmes - Kafka, Kafka Streams, Event driven programming
 - Langues - Français
 - Localisation - Clermont-Ferrand
-
-#### Marie Crappe
-
-- [Marie Crappe - LinkedIn](https://www.linkedin.com/in/marie-crappe-02763668/)
-- Thèmes - Intelligence artificielle, Enjeux éthiques de l'IA, Data Science, Data Governance, Education data et IA
-- Langues - Français, Anglais
-- Localisation - Clermont-Ferrand
-
+  
 #### Mélanie Jarrar
 
 - [@Rahpsodee - Twitter](https://twitter.com/Rahpsodee)
@@ -144,7 +161,7 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Lyon
   
-  #### Morgane Troysi
+#### Morgane Troysi
 
 - [Linkedin](https://www.linkedin.com/in/morganetroysi/)
 - Thèmes - Frontend Development, Vie privée, Soft Skills / Leadership
@@ -166,13 +183,7 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français et Anglais
 - Localisation - Lille
 
-#### Fanny Klauk
 
-- [@klf37](https://twitter.com/klf37)
-- [Blog](https://klaukf.github.io/blog/)
-- Thèmes - Agile, Scrum, Kanban, VSM, WIP, DevOps
-- Langues - Français, Anglais
-- Localisation - Tours
 
 ## Organisatrices
 
