@@ -111,6 +111,13 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Lyon
 
+#### Lucie Anglade
+
+- [grewn0uille.fr](https://grewn0uille.fr)
+- Thèmes − HTML/CSS, PrintCSS, Python, RGPD
+- Langues − Français, Anglais
+- Localisation − Lyon
+
 #### Magali Milbergue
 
 - [@thedaisymoon.me sur BlueSky](https://bsky.app/profile/thedaisymoon.me)
@@ -208,6 +215,13 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - [BDX I/O](https://bdxio.fr/)
 - [Women in Tech](https://www.meetup.com/fr-FR/women-in-tech-bordeaux/)
 - Bordeaux
+
+#### Lucie Anglade
+
+- [grewn0uille.fr](https://grewn0uille.fr)
+- [PyConFR](https://www.pycon.fr)
+- [Meetups Python](https://www.meetup.com/fr-FR/Python-AFPY-Lyon/)
+- Localisation − Lyon
 
 #### Magali Damourette
 
