@@ -38,6 +38,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Bordeaux
 
+#### Aurélie Guillaume
+
+- [@slig36](https://twitter.com/slig36)
+- [aurelie-guillaume.fr](http://www.aurelie-guillaume.fr)
+- Thèmes - Internationalization, Good practice, Code Quality, PHP, Symfony
+- Langues - Français, Anglais
+- Localisation - Paris, France
+  
 #### Cécilia Bossard
 
 - [@cbossard@piaille.fr Mastodon](https://piaille.fr/@cbossard)
@@ -146,9 +154,9 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - [@mariealice_b](https://twitter.com/mariealice_b)
 - [mariealiceblete.com](http://mariealiceblete.com)
 - [LinkedIn](https://www.linkedin.com/in/mblete)
-- Topics - AI, LLMs, Machine Learning, POC to Production
-- Location - Lyon, France (will travel nationally and internationally)
-- Languages besides English - French
+- Thèmes - AI, LLMs, Machine Learning, POC to Production
+- Langues - Français, Anglais
+- Localisation - Lyon, France (will travel nationally and internationally)
   
 #### Marie-Laure Momplot
 
