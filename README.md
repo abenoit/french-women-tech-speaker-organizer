@@ -31,6 +31,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Langues - Français, Anglais
 - Localisation - Nantes
 
+#### Anne-Laure De Boissieu
+
+- [@AnneLaure2B](https://twitter.com/AnneLaure2B)
+- [Anne-Laure De Boissieu](https://www.linkedin.com/in/anne-laure-d/) sur LinkedIn
+- Thèmes - Revue de code, Brag Document
+- Langues - Français
+- Localisation - Lyon
+
 #### Anne-Laure Gaillard
 
 - [Anne-Laure LinkedIn](www.linkedin.com/in/annelauregaillard)
@@ -190,6 +198,14 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - Themes - design, produit, agilité, accessibilité, inclusivité
 - Langues - Français
 - Localisation - Bordeaux
+
+#### Pauline Rambaud
+
+- [@Pauline🦦](https://twitter.com/pauinegu)
+- [Pauline Rambaud](https://www.linkedin.com/in/paulinerambaud/) sur LinkedIn
+- Thèmes - Revue de code, Mentorat
+- Langues - Français
+- Localisation - Lyon
 
 #### Thanh Lan Doublier
 
