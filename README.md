@@ -6,6 +6,13 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 
 ## Speakers
 
+#### Alex Palma
+
+- [Alex Palma sur Linkedin](https://www.linkedin.com/in/ajnadesign/)
+- Thèmes - Accessibilité, Inclusion, Technologies Web, Dev front, UI/UX
+- Langues - Français, Anglais
+- Localisation - Quimper
+
 #### Amélie Benoit
 
 - [@AmelieBenoit33](http://twitter.com/AmelieBenoit33)
