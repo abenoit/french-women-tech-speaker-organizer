@@ -48,7 +48,7 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 
 #### Anne-Laure Gaillard
 
-- [Anne-Laure LinkedIn](www.linkedin.com/in/annelauregaillard)
+- [Anne-Laure LinkedIn](https://www.linkedin.com/in/annelauregaillard)
 - Thèmes - Qualité logiciel, testing, API testing, inclusion
 - Langues - Français, Anglais
 - Localisation - Bordeaux
