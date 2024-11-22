@@ -230,7 +230,6 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 - [@AmelieBenoit33](http://twitter.com/AmelieBenoit33)
 - [BDX I/O](https://bdxio.fr/)
 - [Women in Tech](https://www.meetup.com/fr-FR/women-in-tech-bordeaux/)
-- [React & React-Native Bordeaux](https://www.meetup.com/fr-FR/react-react-native-bordeaux/)
 - Bordeaux
 
 #### Anne-Laure Gaillard
