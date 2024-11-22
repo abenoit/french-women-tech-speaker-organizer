@@ -16,7 +16,6 @@ Liste de femmes conférencières et organisatrices de conférences tech. Soumett
 #### Amélie Benoit
 
 - [@AmelieBenoit33](http://twitter.com/AmelieBenoit33)
-- [amelie.tech](https://amelie.tech/fr/)
 - Thèmes - React, Typescript, JavaScript, Node.js, HTML/CSS, Flexbox
 - Langues - Français, Anglais
 - Localisation - Bordeaux
